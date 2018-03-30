@@ -5813,22 +5813,16 @@ typescript@^2.4.2:
   version "2.8.1"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.8.1.tgz#6160e4f8f195d5ba81d4876f9c0cc1fbc0820624"
 
-typewiz-webpack@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/typewiz-webpack/-/typewiz-webpack-0.3.3.tgz#3eb41c4e8bf91528eeaffcd97b1cd790eb0ed5a0"
+typewiz-webpack@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/typewiz-webpack/-/typewiz-webpack-0.4.0.tgz#ad8b93d1d6f2c461b62fe0db653ffc563af2f32b"
   dependencies:
-    typewiz "^0.5.0"
+    typewiz "^0.7.0"
     webpack-sources "^1.1.0"
 
-typewiz@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/typewiz/-/typewiz-0.5.0.tgz#1a8bfdc41d6bb0b52a772fbc949efdcb8dd07702"
-  dependencies:
-    typescript "^2.4.2"
-
-typewiz@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/typewiz/-/typewiz-0.7.0.tgz#e7bbcee3b3cdba6a3f1ce4bd9fc9bd70b9ff7c02"
+typewiz@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/typewiz/-/typewiz-0.7.1.tgz#f85151895e9bb1f0958e1e0d833cd4d35fcc7907"
   dependencies:
     typescript "^2.4.2"
 

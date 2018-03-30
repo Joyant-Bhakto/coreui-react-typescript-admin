@@ -35,7 +35,8 @@
     "sass-loader": "6.0.6",
     "source-list-map": "2.0.0",
     "style-loader": "0.20.1",
-    "typewiz": "^0.7.0",
+    "typewiz": "^0.7.1",
+    "typewiz-webpack": "^0.4.0",
     "uglify-js": "3.3.9",
     "url-loader": "0.6.2",
     "walk-sync": "^0.3.2",
@@ -55,8 +56,7 @@
     "react-router-dom": "4.2.2",
     "react-transition-group": "2.2.1",
     "reactstrap": "5.0.0-beta",
-    "simple-line-icons": "2.4.1",
-    "typewiz-webpack": "^0.3.3"
+    "simple-line-icons": "2.4.1"
   },
   "scripts": {
     "dev": "webpack -d --progress --watch --profile --json > compilation-stats.json --env.dev",
